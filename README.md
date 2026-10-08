@@ -1,12 +1,26 @@
 # Hi, I'm Udhay Kumar 👋
 
-Backend-focused developer building production systems with Python and FastAPI. Currently solving algorithmic challenges and engineering scalable backend services.
+Aspiring **Data Engineer** focused on designing reliable data pipelines, advanced SQL analytics, and automated data transformations. Currently executing a dedicated transition into production-grade data engineering.
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** Python
-- **Backend & Tools:** FastAPI, PostgreSQL, Git, GitHub
-- **Focus Areas:** Data Structures & Algorithms, REST APIs, Automation
+---
 
-### 📌 Current Milestones
-- 🎯 Consistent problem solving on LeetCode (Arrays, Hash Maps, Two Pointers)
-- 🚀 Building backend API pipelines and automation workflows
+### 🛠️ Technical Focus & Stack
+
+* **Databases & Querying:** PostgreSQL, Advanced SQL (Window Functions, CTEs, Aggregations, Performance Tuning)
+* **Data Processing & Scripting:** Python, Pandas, SQLAlchemy
+* **Architecture & Pipelines:** ETL/ELT Workflows, Data Modeling (Star Schema, Fact & Dimension tables), Batch Ingestion
+* **Tools & Workflow:** Git, GitHub, Linux/Bash
+
+---
+
+### 🚀 Active Work
+
+- 📈 Building and logging daily data engineering progress in [`data-engineering-journey`](https://github.com/udhay-28/data-engineering-journey)
+- 🧩 Solving analytical SQL challenges (LeetCode SQL 50 & real-world transactional schemas)
+- 🏗️ Developing end-to-end Python ingestion and database loading pipelines
+
+---
+
+### 📫 Connect With Me
+
+* Email: [udhay2807@gmail.com]
